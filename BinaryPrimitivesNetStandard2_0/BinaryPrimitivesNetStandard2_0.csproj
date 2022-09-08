@@ -3,6 +3,13 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>BinaryPrimitivesNetStandard2_0</Title>
+    <Authors>Nathan Jacobs</Authors>
+    <Description>BinaryPrimitives endian methods for .NET Standard 2.0</Description>
+    <PackageProjectUrl>https://github.com/nathanAjacobs/BinaryPrimitivesNetStandard2_0</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/nathanAjacobs/BinaryPrimitivesNetStandard2_0</RepositoryUrl>
+    <PackageTags>binary;endian</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
